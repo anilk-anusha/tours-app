@@ -39,8 +39,8 @@ Variables
   --transition: all 0.3s linear;
   --spacing: 0.1rem;
   --radius: 0.25rem;
-  --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-  --dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  --light-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
+  --dark-shadow: 0 15px 20px rgba(0, 0, 0, 0.1);
   --max-width: 1170px;
   --fixed-width: 620px;
 }
@@ -133,7 +133,7 @@ p {
     width: 95vw;
   }
 }
-.btn {
+.btn, .btn:hover {
   background: var(--clr-primary-5);
   display: inline-block;
   padding: 0.25rem 0.5rem;
@@ -145,6 +145,11 @@ p {
   cursor: pointer;
   margin-top: 2rem;
   font-size: 1.2rem;
+}
+
+.btn:hover {
+  background: var(--clr-primary-2);
+
 }
 /*
 =============== 
@@ -180,6 +185,7 @@ main {
 }
 .single-tour:hover {
   box-shadow: var(--dark-shadow);
+  
 }
 .single-tour img {
   width: 100%;
@@ -215,7 +221,7 @@ main {
 .single-tour footer {
   padding: 1.5rem 2rem;
 }
-.single-tour .delete-btn {
+.single-tour .delete-btn, .single-tour .delete-btn:hover {
   display: block;
   width: 200px;
   margin: 1rem auto 0 auto;
@@ -225,4 +231,9 @@ main {
   border: 1px solid var(--clr-red-dark);
   padding: 0.25rem 0.5rem;
   border-radius: var(--radius);
+}
+.single-tour .delete-btn:hover{
+  color: var(--clr-white);
+  background-color: var(--clr-red-dark) ;
+
 }
