@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+# Tours App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+This project is a part of the Code 15 React Projects - Complete Course from freeCodeCamp.
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [General Info](#general-info)
+- [Topics Covered](#topics-covered)
+- [Enhancements](#enhancements)
+- [Technologies](#technologies)
+- [Setup](#setup)
+- [Screenshots](#screenshots)
+- [Status](#status)
+- [References](#references)
+- [Acknowledgements](#acknowledgements)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## General Info
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ The main purpose of this project is to understand the basics of React.
 
-### `npm test`
+## Topics covered
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [x]   
 
-### `npm run build`
+## Enhancements
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ 
+## Technologies
 
-### `npm run eject`
+- ReactJS
+- useState Hooks
+- HTML5
+- CSS3
+- JavaScript ES6
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Screenshots
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Setup
 
-## Learn More
+### Setting up a React Project in Visual Studio Code
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Prerequisites
+- [Node.js](https://nodejs.org/) installed
+- [npm](https://www.npmjs.com/) (Node Package Manager) installed
+- Visual Studio Code installed
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Create React App
+1. Open your terminal.
+2. Navigate to the directory where you want to create your React project.
+3. Run the following command to create a new React app:
+```
+npx create-react-app my-react-app
+```
+5. Change into the project directory.
+```
+cd my-react-app
+```
+6. In the terminal of Visual Studio Code, run the following command to start the development server.
+```
+npm start
+```
+This will open your React app in a new browser window, and you can start developing your project.
 
-### Code Splitting
+## Status
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Project Status: Completed
 
-### Analyzing the Bundle Size
+## References
+- https://github.com/john-smilga/react-projects?tab=readme-ov-file
+- https://www.youtube.com/watch?v=a_7Z7C_JCyo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Acknowledgements
+- Big thanks to [John Smilga](https://twitter.com/john_smilga) for creating this amazing React course! 
+- Your guidance has been invaluable in helping me improve my skills. Grateful for your dedication and expertise! 🙏🏻🫡
