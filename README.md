@@ -22,20 +22,17 @@ This project is a part of the Code 15 React Projects - Complete Course from free
 
 ## Topics covered
 
-- [x]   
+- [x] Fetch Data from API
+- [x] Toggle functionality
 
 ## Enhancements
 
 - UI Button changes
-
  
 ## Technologies
 
 - ReactJS
 - Hooks
-- HTML5
-- CSS3
-- JavaScript ES6
 - Working with custom APIs
 
 ## Screenshots
