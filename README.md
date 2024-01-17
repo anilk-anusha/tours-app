@@ -26,20 +26,23 @@ This project is a part of the Code 15 React Projects - Complete Course from free
 
 ## Enhancements
 
-- Button hover changes 
+- UI Button changes
 
  
 ## Technologies
 
 - ReactJS
-- useState Hooks
+- Hooks
 - HTML5
 - CSS3
 - JavaScript ES6
+- Working with custom APIs
 
 ## Screenshots
-
-
+<img width="943" alt="image" src="https://github.com/anilk-anusha/tours-app/assets/130001836/1b00f4b9-2ee6-49a8-9b65-f8de191e66f2">
+<img width="948" alt="image" src="https://github.com/anilk-anusha/tours-app/assets/130001836/c3a18735-bd0c-45bd-8a90-a71dd7088096">
+<img width="403" alt="image" src="https://github.com/anilk-anusha/tours-app/assets/130001836/e778c7ba-27b5-4891-aee2-13935fbba050">
+<img width="955" alt="image" src="https://github.com/anilk-anusha/tours-app/assets/130001836/f45178e9-7b45-4174-a0af-3f87a2621359">
 
 ## Setup
 
